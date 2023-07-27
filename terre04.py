@@ -1,5 +1,7 @@
 #py
 
+# S02 M03 - Épreuve de la Terre - Exercice " Pair ou impair "
+
 a = (2)
 b = (5)
 c = ("Bonjour")
